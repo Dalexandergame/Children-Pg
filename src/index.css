@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.doublePortion {
+  width: 650px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+
